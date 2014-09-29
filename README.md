@@ -9,6 +9,7 @@ Quick start
 1. First install django_jenkins_extends:
 
 	```
+	pip install git+git://github.com/witold-gren/django-jenkins-extends
 	```
 
 2. Second install pylint plugin:
